@@ -1,1 +1,2 @@
-# der-ultimative-hacking-plan
+# Der ultimative Plan, um (Ethischer) Hacker zu werden
+
